@@ -17,13 +17,13 @@ Welcome to my collection of AI-powered tools designed to enhance creativity and 
 - Creates personalized, contextual poems
 - Simple and intuitive interface
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/a-poem-from-a-selection-1cfe3031)
+[🔗 Try it out]([https://app.mindstudio.ai/agents/a-poem-from-a-selection-1cfe3031](https://app.mindstudio.ai/agents/a-poem-from-a-selection-1cfe3031/run))
 
 ---
 
 ## 📖 About Me
 
-I'm Michael Alf, founder of Beyond The Obvious, based in Cascais, Portugal. With a background from Universität St. Gallen and certifications in AI ethics and generative AI, I'm passionate about exploring how artificial intelligence can enhance human creativity and decision-making.
+I'm Michael Alf, Co-Founder of Beyond The Obvious, based in Cascais, Portugal. With a background from University St. Gallen and certifications in AI ethics and generative AI, I'm passionate about exploring how artificial intelligence can enhance human creativity and decision-making.
 
 Through my writing and speaking, I examine the profound questions emerging from our relationship with AI - from the paradoxes of autonomy in self-driving cars to the positive psychology embedded in ChatGPT. My work focuses on practical AI applications that solve real business challenges while maintaining a human-centered approach.
 
@@ -39,6 +39,6 @@ Ready to explore custom AI solutions for your business? I specialize in:
 - **Executive AI education and workshops**
 - **Business transformation through AI**
 
-[📬 Contact me](mailto:contact@alfglobal.co) or [Connect on LinkedIn](https://www.linkedin.com/in/themichaelalf)
+[📬 Contact me](mailto:info@alfglobal.co) or [Connect on LinkedIn](https://www.linkedin.com/in/themichaelalf)
 
 *"The future belongs to those who can see beyond the obvious possibilities of AI."*
